@@ -1,0 +1,10 @@
+name: rando
+version: 0.1.0
+
+authors:
+  - acoolstraw <straw@pinnoto.org>
+
+description: |
+  Random things in the commandline
+
+license: GPL-3.0
